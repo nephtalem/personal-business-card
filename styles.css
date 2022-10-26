@@ -1,0 +1,29 @@
+.container{
+    margin: 70px auto;
+    width: 650px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:#b7b7a4 ;
+    border-bottom:8px solid #faedcd ;
+    box-shadow: 5px 10px 18px #888888;
+    color: #343a40;
+    border-radius: 5px;
+}
+
+.avater{
+    width:200px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+.contact-info{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    font-size: 12px;
+    font-style: oblique;
+}
